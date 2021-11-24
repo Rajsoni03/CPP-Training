@@ -1,7 +1,8 @@
+// Calculate the area of squre and cube
+
 #include <iostream>
 using namespace std;
 
-// Calculate the area of squre and cube
 int main(){
 	int a;
 	cin >> a;

@@ -1,7 +1,8 @@
+// Simple Calculator
+
 #include <iostream>
 using namespace std;
-
-// Simple Calculator 
+ 
 int main(){
 	int x = 20;
 	int y = 10;

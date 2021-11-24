@@ -1,0 +1,38 @@
+Minimum code
+float return
+comment in cout
+
+variables rules
+variables size
+initialization of variables using constructor
+auto type
+
+pow
+range of int, short, double
+decimal, bin, oct, hax
+int x, y, z;  x = y = z = 5;
+pow
+
+float, double
+
+char
+escape  char
+string oin 2 line \
+R"(string with \backslash)"
+
+// cout<<"Hello\nworld"<<endl;    
+// cout<<"Hello\tworld"<<endl;
+// cout<<"Hello\rworld"<<endl;
+// cout<<"Hello\bworld"<<endl;
+// cout<<"Hello \'world\'"<<endl;
+// cout<<"Hello \"world\""<<endl;
+// cout<<"Hello world\?"<<endl;
+// cout<<"Hello world\\"<<endl;
+
+// cout<<"this forms " "a single"     " string " "of characters"<<endl;
+
+
+// cout<<"string expressed in \
+two lines"<<endl;
+
+// cout<<"string with \\backslash"<<endl;

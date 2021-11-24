@@ -1,7 +1,8 @@
+// variable 
+
 #include <iostream>
 using namespace std;
 
-// variable 
 int main(){
 
 	

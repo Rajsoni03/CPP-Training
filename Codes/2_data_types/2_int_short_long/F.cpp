@@ -1,7 +1,8 @@
+// Calculator with user input
+
 #include <iostream>
 using namespace std;
 
-// Calculator with user input
 int main(){
 	int x;
 	int y;
